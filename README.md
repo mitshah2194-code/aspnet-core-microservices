@@ -1,7 +1,5 @@
 # aspnet-core-microservices
 
-I'll create a comprehensive ASP.NET Core Microservices guide as markdown that you can copy and convert to PDF. Let me generate all the topics with notes and C# examples.
-
 # ASP.NET Core Microservices - Complete Guide
 
 ## Table of Contents
